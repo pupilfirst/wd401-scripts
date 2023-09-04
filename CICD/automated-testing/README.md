@@ -1,3 +1,4 @@
+# Script
 In this lesson, you will learn more about automated testing and how we can integrate it with our CICD pipeline. So, let's get started.
 
 Automated testing is a process of using certain software tools and scripts to execute some pre-defined tests on an application or software system. These tests are designed to check various aspects of the application's functionality, performance, and reliability.
