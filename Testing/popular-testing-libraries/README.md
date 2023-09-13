@@ -17,3 +17,8 @@ In this lesson, we will look into different testing libraries that are commonly 
 ### Resource 4
 
 [Test Driven Development in Node.js using Jest](https://blog.logrocket.com/node-js-express-test-driven-development-jest/)
+
+
+### Resource 5
+
+[End to End testing using Cypress](https://blog.logrocket.com/how-to-write-end-to-end-tests-cypress-nodejs/)
