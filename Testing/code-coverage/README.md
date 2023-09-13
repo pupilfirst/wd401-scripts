@@ -21,3 +21,9 @@ In this lesson we will learn about code coverge and how we can generate coverage
 ### Resource 5
 
 [Integrate Jest testing into GitHub CI/ CD](https://medium.com/@trevorjperez1/add-jest-to-your-ci-cd-pipeline-with-github-actions-b369c0079173)
+
+### Resource 6
+
+When running the existing Node.js project, you will have to attach a postgres container to run the tests. It is fairly straight forward to do that with GitHub actions.
+
+[Integrate Postgres container to GitHub actions](https://docs.github.com/en/actions/using-containerized-services/creating-postgresql-service-containers#running-jobs-directly-on-the-runner-machine)
