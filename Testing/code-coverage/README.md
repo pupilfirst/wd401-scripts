@@ -17,3 +17,7 @@ In this lesson we will learn about code coverge and how we can generate coverage
 ### Resource 4
 
 [Code coverage using Jest](https://www.valentinog.com/blog/jest-coverage/)
+
+### Resource 5
+
+[Integrate Jest testing into GitHub CI/ CD](https://medium.com/@trevorjperez1/add-jest-to-your-ci-cd-pipeline-with-github-actions-b369c0079173)
