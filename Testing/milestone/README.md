@@ -8,6 +8,13 @@ On completing this level, you will have:
 - Integration tests configured using Cypress
 - Have configured GitHub actions to run automatically when a new code is pushed.
 
+> Action: Visit the GitHub solution repo and switch to `Actions` tab and show the actions that ran previously. Also, visit the action file in `.github/workflows` folder
+
+
+## GitHub Action file
+
+[Sample GitHub Action file](./main.yml)
+
 ## Screenshots
 
 You should have something similar in GitHub actions:
