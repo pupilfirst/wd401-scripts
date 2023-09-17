@@ -12,10 +12,7 @@ This article explains, how you can automate your DevOps monitoring process.
 
 #### Resource 3: https://www.browserstack.com/guide/devops-feedback-loop
 
-Now, let me show you, how we've configured our monitoring tools in our CICD pipeline. Here I'm using Grafana and Prometheus to monitor our CICD pipeline, which we've configured using Github Actions.
+#### Resource 4: https://github.blog/changelog/2022-12-06-github-actions-workflow-notifications-in-slack-and-microsoft-teams/
+In this article you'll be able to learn to set Up GitHub Actions Notifications in Slack or Microsoft Teams. Means, for any event related to your application's build, you'll get a notification in your slack channel.
 
-For your information, [Prometheus](https://prometheus.io/) is an open-source monitoring and alerting toolkit that can scrape and store time-series data.
-
-And [Grafana](https://grafana.com/) is a popular open-source platform for creating dashboards and visualizing metrics.
-
-
+So, that's it for this lesson, see you in the next one.
