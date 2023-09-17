@@ -15,4 +15,7 @@ This article gives a comprehensive overview of six common deployment strategies:
 #### Resource 2: https://www.abtasty.com/blog/deployment-strategies/
 This article introduces the concept and definition of deployment strategies and why they are important for software development and delivery. It also discusses four types of deployment strategies: rolling updates, blue-green deployments, canary releases, and feature flags. 
 
+### Resource 3: https://www.youtube.com/watch?v=lj5T9lO5KBs
+This video demonstrates how to use GitHub Actions to automate Canary deployments. Here you'll be able to learn, how to deploy a simple service using the Microsoft Azure Container Apps service, and then using GitHub actions how we can automatically deploy and test new versions  when some changes are made in the application code.
 
+So, that's it for this lesson, see you in the next one.
