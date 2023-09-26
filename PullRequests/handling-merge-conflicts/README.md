@@ -18,15 +18,10 @@ Merge conflicts occur when there are conflicting changes in different branches, 
 
 - Testing: After resolving conflicts, thoroughly test the merged code to ensure that it functions as expected and doesn't introduce new issues.
 
-**Reference Points for External Content:**
-[Reference: In-depth Guide to Resolving Merge Conflicts]
-[Reference: Mastering Git: Conflict Resolution Strategies]
+**References**
 
-**Hands-on Practice:**
-
-Now, let's jump into a hands-on demonstration. We'll walk through an example of a pull request with conflicting changes. You'll see the step-by-step process of identifying, resolving, and validating merge conflicts.
-
-> Action: Open WD201 repo and resolve a Merge conflict already created.
+[Merge conflict resolutions](https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts)
+[Prevent Merge Conflicts](https://dev.to/github/how-to-prevent-merge-conflicts-or-at-least-have-less-of-them-109p)
 
 Merge conflicts are an inevitable part of collaborative coding. By understanding the causes of conflicts and mastering conflict resolution strategies, you equip yourself with skills to maintain a seamless and productive development process.
 
