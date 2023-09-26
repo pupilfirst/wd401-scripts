@@ -39,6 +39,7 @@ Collaborative Environment: Ongoing iterations encourage collaboration and knowle
 **References**
 
 [Google - Handling review feedback](https://google.github.io/eng-practices/review/developer/handling-comments.html)
+[Iterative Reviews](https://docs.devart.com/review-assistant/reworking-code/what-is-iterative-review.html)
 
 Feedback is a cornerstone of software development, and iterative development amplifies its impact. By embracing feedback and iteratively refining your code, you contribute to robust and high-quality software solutions.
 
