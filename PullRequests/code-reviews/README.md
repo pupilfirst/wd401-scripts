@@ -6,8 +6,8 @@ In the world of software engineering, ensuring code quality is paramount. This i
 
 Code reviews are like a second set of eyes on your code. They help catch errors, ensure adherence to coding standards, and identify potential design flaws. Through code reviews, team members collectively contribute to making the codebase stronger.
 
-[Reference: Effective Code Review Practices]
-[Reference: Code Review Etiquette and Best Practices]
+[Google - How to do a Code Review](https://google.github.io/eng-practices/review/reviewer/)
+[Code Review Etiquette and Best Practices](https://www.educative.io/blog/code-review-best-practices)
 
 Here are some important tips for providing constructive feedback:
 
