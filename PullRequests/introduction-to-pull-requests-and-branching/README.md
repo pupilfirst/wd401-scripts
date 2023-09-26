@@ -16,12 +16,10 @@ Another common approach is feature branching. Each new feature gets its own bran
 
 Pull-requests offer several benefits. They encourage collaboration, as team members can discuss changes and provide feedback. This process enhances code quality and reduces errors.
 
-[Reference: Practical Demonstration - Creating Pull-Requests]
-[Reference: Branching Strategies - GitFlow and Feature Branching]
+**Resources**
 
-Now, let's dive into a practical demonstration. We'll walk through creating a branch, making changes, and creating a pull-request.
-
-> Action: Open WD201 Repo and add a git structure as decribed
+[Creating Pull-Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+[Importance of Pull Requests](https://shopify.engineering/on-the-importance-of-pull-request-discipline)
 
 To sum up, pull-requests are a vital part of collaborative software development. They promote teamwork, code review, and overall project stability.
 
