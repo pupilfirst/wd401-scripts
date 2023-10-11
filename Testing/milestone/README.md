@@ -8,6 +8,8 @@ On completing this level, you will have:
 - Integration tests configured using Cypress
 - Have configured GitHub actions to run automatically when a new code is pushed.
 
+You can also add some steps to do some output actions like triggering notification to Slack or Discord once the test succeeds or fails.
+
 ### GitHub Action file
 
 [Sample GitHub Action file](./main.yml)
