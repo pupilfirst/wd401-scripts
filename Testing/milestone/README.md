@@ -27,6 +27,15 @@ There should be unit tests:
 And integration tests as well.
 ![Integration tests](./integration-test.png)
 
+#### Submission Guidelines
+
+Submit a GitHub repository with file `l4-milestone.md`. This document should comprehensively outline the steps taken to implement the concepts learned at this level. The write-up is expected to include the following key details:
+
+- Configuration of Testing Framework: How you have configured a testing framework to run the test suite in your project.
+- Test Suite Coverage: How the entire application is covered in test suite using unit tests and integration tests.
+- Automatic Test Suite Execution on GitHub: How the test suite runs automatically when pushed to GitHub.
+- GitHub Actions Walkthrough: A walkthrough of GitHub actions that you have implemented.
+
 ## Script
 
 In this lesson, we will apply the concepts that we have learnt in this level to an existing Node.js project.
