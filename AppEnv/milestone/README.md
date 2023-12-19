@@ -22,6 +22,7 @@ Implement security measures to fortify your Node.js application:
 
 ### Submission Guidelines:
 
-- Provide a detailed documentation file that includes the list and purpose of environment variables for both development and production environments.
-- Include the PM2 configuration settings for deploying the application in cluster mode.
-Demonstrate the security measures implemented, explaining the rationale behind each measure.
+- Provide a detailed documentation file named `app_env.md` in your GitHub repo that includes the list and purpose of environment variables for both development and production environments.
+- Include the PM2 configuration settings for deploying the application in cluster mode in the documentation file.
+- Also include the the security measures implemented, explaining the rationale behind each measure.
+- Do a screen recording to demonstrate the entire flow.
