@@ -26,7 +26,6 @@ You've a web application (could be a Node.Js or a React.Js app). Now you have to
 
 ### Submission Guidelines:
 
-- Create a well-documented YAML file for the GitHub Actions pipeline, clearly delineating each stage's purpose and execution.
-- Document the purpose and usage of each environment variable, ensuring clarity for future maintenance.
-- Demonstrate the error reporting integration in action, emphasizing how error messages are promptly communicated to the designated Slack or Discord channel.
-- Verify that the pipeline successfully triggers on code changes, executes the test cases, and deploys the application without manual intervention.
+- Create a well-documented YAML file (`cicd.yaml`) for the GitHub Actions pipeline, clearly delineating each stage's purpose and execution.
+- Document the purpose and usage of each environment variable, ensuring clarity for future maintenance. The filename should be: `ci-cd.md` .
+- Do a screen recording to show that the pipeline successfully triggers on code changes, executes the test cases, and deploys the application without manual intervention. Also demonstrate the error reporting integration in action, emphasizing how error messages are promptly communicated to the designated Slack or Discord channel.
