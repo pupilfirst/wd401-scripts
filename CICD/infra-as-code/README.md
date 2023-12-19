@@ -10,7 +10,7 @@ Now you might ask, we already have our CICD workflow, why the hell we need somet
 - **Version Control:** Infrastructure changes can be tracked and versioned like software code.
 - **Error Reduction:** Manual errors are minimized, leading to increased reliability.
 
-### Now, let's find out the popular available to implement IaC:
+### Now, let's find out the popular tools available to implement IaC:
 There are several tools and languages commonly used for implementing IaC:
 - **Terraform:** Terraform is an open-source, declarative IaC tool developed by HashiCorp. It allows you to define and provision infrastructure resources using a domain-specific language called HashiCorp Configuration Language (HCL) or JSON.
 - **Ansible:** Ansible is an agentless automation tool that can also be used for IaC. It uses simple YAML-based playbooks to describe automation tasks, including infrastructure provisioning.
