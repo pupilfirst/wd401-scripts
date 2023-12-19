@@ -18,8 +18,8 @@ This article gives a comprehensive overview of what CI/CD pipeline is and how it
 
 Now, let me show you, how we've integrated automated tests in our CICD pipeline. Here I'm using a Node.Js application and configuring CICD pipeline in it using Github Actions.
 
-> Action: Open repo in Github.
-Now, here I've two workflows, `ci.yml` and `deploy.yml` inside the `.github/workflows` folder. To run automated tests in our repository, I've updated the ci.yml file like this:
+> Action: [Open repo in Github](https://github.com/avishekjana/cicd-nodejs-app/.
+Now, here I've one workflow, `main.yml` inside the `.github/workflows` folder. To run automated tests in our repository, I've updated the main.yml file like this:
 ```yml
 name: Node.js CI
 
@@ -47,17 +47,6 @@ jobs:
     - name: Run Tests
       run: npm test      
 ```
-The last command would run all tests that we've written inside our Node.Js application.
-
-It's as simple as that. Now to test if it's working properly, let's push some code to the main branch.
-
-> Action: Make some changes in the main branch and show the workflow in action inside the `Actions` tab.
-
-> In case of failure:
-So, as you can see, the our test cases are running successfully, some of them are failing which we can fix in our app.
-![test](tests.png)
-
-> In case of success:
-So, as you can see, the our test cases are running successfully. That's great.
+The last command would run all test cases that we've written inside our Node.Js application. It's as simple as that. Now to test if it's working properly, just push some code to the `main` branch, and check the **Actions** tab in your GitHub repository. If any test case fails, you will get the detailed information here. But in case it passes all tests, then the deployment task would proceed as usual.
 
 So, that's it for this lesson, see you in the next one.
