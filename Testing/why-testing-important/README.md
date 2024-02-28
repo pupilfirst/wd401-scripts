@@ -16,6 +16,6 @@ This article explores different types of testing and how the tests can be run au
 
 ### Resource 3
 
-- [Test Driven Development](https://www.ibm.com/garage/method/practices/code/practice_test_driven_development/)
+- [Test Driven Development](https://developer.ibm.com/articles/5-steps-of-test-driven-development/)
 
 Test driven development is the practise of only writing a failing test case at first, then writing minimum code to make the test pass. This might sound counter productive at first, but doing so helps in thinking through the design of the program and helps move faster over the time.
