@@ -8,7 +8,7 @@ To recap, you've delved into the following modules and incorporated their concep
 
 2. JS Bundling & Integration: You've understood the necessity of "bundling" and explored various tools, applying JavaScript bundling concepts to your project.
 
-3. Compile-to-JS Languages: You've grasped the differences between compile-to-JS languages (TypeScript and Babel) and made an informed choice for your project.
+3. Compile-to-JS Languages: You've grasped the differences between TypeScript and Babel, and made an informed choice for your project.
 
 4. Testing Strategies: You've incorporated unit and integration tests into your project, generated coverage reports, and set up GitHub Actions.
 
