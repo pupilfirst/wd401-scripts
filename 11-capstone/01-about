@@ -1,0 +1,36 @@
+Welcome to the culmination of your journey through our WD401 course! In recent weeks, you've immersed yourself in modern web development, mastering vital tools, methods, and concepts crucial for production applications. It's time to showcase your newfound expertise by sharing your project, reflecting on your learnings, challenges, and achievements.
+
+As the culmination of your hard work, it's time to showcase your expertise by presenting your capstone project. This project has been a canvas for you to apply the knowledge and skills acquired across the ten modules, allowing you to create a unique and meaningful application.
+
+To recap, you've delved into the following modules and incorporated their concepts into your project:
+
+1. Workflow using Pull-Requests: You've learned how to open a pull request, make changes, submit work for review, and update code based on feedback.
+
+2. JS Bundling & Integration: You've understood the necessity of "bundling" and explored various tools, applying JavaScript bundling concepts to your project.
+
+3. Compile-to-JS Languages: You've grasped the differences between TypeScript and Babel, and made an informed choice for your project.
+
+4. Testing Strategies: You've incorporated unit and integration tests into your project, generated coverage reports, and set up GitHub Actions.
+
+5. CI/CD Pipeline: You've established a CI/CD pipeline to automate the deployment process, ensuring seamless integration of code changes and swift error detection.
+
+6. Application Environments: You've deployed your application in cluster mode using PM2, implemented environment variable configurations for development and production, and applied security measures to safeguard your application.
+
+7. Containerization: You've containerized your application using Docker, configured environment variables within the containers, defined a Docker Compose file for multiple services (including a database service), and set up a CI/CD pipeline to deploy the Dockerized application on a server.
+
+8. Internationalization & Localization: You've implemented internationalization and localization in your web application, catering to diverse user preferences and geographical locations.
+
+9. Error Logging & Debugging: You've followed error logging and debugging practices, which helps in finding and resolving bugs as early as possible.
+
+10. Generative AI Integration: You've integrated generative AI into your project, leveraging ChatGPT to interpret natural language input and enhance user interactions.
+
+## What to submit in the capstone project?
+
+For your capstone project submission, you'll need to record a detailed video reflecting on your journey. We've outlined what you should cover along with the approximate length for each section of the video. Of course, you can go into more detail if you wish. In this video, please include the following topics:
+
+- Share your key takeaways from each of the ten modules as implemented in your project (~10 minutes).
+- Discuss your learning experiences, surprises, and growth as a web developer throughout the course (~2 minutes).
+- Explain how you overcame obstacles and challenges along the way (~2 minutes).
+- Reflect on your journey, from where you started at the beginning of the course to the level of proficiency you've attained (~2 minutes)
+
+This capstone project is an opportunity to showcase your mastery of the concepts covered in the WD401 course and demonstrate your readiness for professional web development endeavors. We're excited to witness your accomplishments and celebrate your success!
